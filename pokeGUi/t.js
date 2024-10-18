@@ -1,0 +1,1 @@
+window.open('mailto:test@example.com');
